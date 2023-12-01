@@ -32,7 +32,7 @@ Install dependencies
 ```
 
 ```bash
-  cd frontend/
+  cd server/
   npm install
 ```
 
