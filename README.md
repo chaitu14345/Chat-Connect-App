@@ -67,8 +67,8 @@ Start the Client
 ### Add or Remove users from group
 
 ### Preview
+![image (1)](https://github.com/chaitu14345/Chat-Connect-App/assets/140838931/50659e29-6b51-4254-9c50-039b6e0fff58)
 
-
-![Screenshot 2023-12-01 105508](https://github.com/chaitu14345/Chat-Connect-App/assets/140838931/1d574068-aea5-4d65-851d-047a5586f61b)
+![image](https://github.com/chaitu14345/Chat-Connect-App/assets/140838931/78237131-6937-4e85-8a27-598b80418434)
 
   
